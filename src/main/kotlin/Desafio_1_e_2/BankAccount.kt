@@ -1,4 +1,4 @@
-package Desafio_1e2
+package Desafio_1_e_2
 
 class BankAccount(
     private var balance: Double,
